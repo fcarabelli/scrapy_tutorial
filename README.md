@@ -1,12 +1,12 @@
 # scrapy_tutorial
 
-###### To run the spiders 
+**To run the spiders**
 
 > scrapy crawl `name`
 
 Run the spider using the name. 
 
-###### To run the spiders
+**To run the spiders**
 
 > scrapy shell `url`
 
